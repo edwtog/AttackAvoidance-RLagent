@@ -1,0 +1,1 @@
+Avs2 WT Avs1 NT Avs0 => phi=0.1
